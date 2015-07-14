@@ -67,7 +67,7 @@ Plz = {
     },
 
     /*
-     * Conver HSV to RGB. HSV coordinates in [0, 1].
+     * Convert HSV to RGB. HSV coordinates in [0, 1].
      */
     hsvToRgb: function (h, s, v) {
         var r, g, b, i, f, p, q, t;
